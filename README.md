@@ -1,6 +1,6 @@
 Landsat Land Surface Temperature
 ====================
-![LSTinterface](https://drive.google.com/file/d/1vCI11ySWPXYIfzBmniswDGMS6ztdqirA/view?usp=sharing)
+![LSTinterface](http://drive.google.com/uc?export=view&id=1vCI11ySWPXYIfzBmniswDGMS6ztdqirA)
 
 The Landsat Surface Temperature tool has been created by the [Remote Sensing Lab](https://http://rslab.gr/) in Hellas, Greece. The Landsat Land Surface Temperature is a Google Earth Engine based tool that provides up-to-date Land Surface Temperature at 30 x 30 m. Datasets are available for downloading at user defined polygon (at any area of the globe), time frame (for the full Landsat 5, 7 and 8 archive) and emissivity source (ASTER, MODIS, NDVI-based)  
 
